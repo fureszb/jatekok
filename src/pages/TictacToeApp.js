@@ -15,8 +15,6 @@ export default function TicTacToeApp(){
     <div className="App">
       <header className="App-header">
         <h1>Tictactoe</h1>
-
-
       </header>
       <article>
         <Jatekter lista={lista} kattintas={kattintas} />

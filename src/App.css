@@ -59,3 +59,12 @@
   grid-template-columns:repeat(2, 28%);
   gap: 10px;
 }
+
+.kor{
+  border: 2px solid gray;
+  border-radius: 73%;
+  padding: 50%;
+}
+.ligth>.jatekter{
+  gap:10px !important;
+}
